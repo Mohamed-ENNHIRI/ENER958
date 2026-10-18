@@ -12,7 +12,7 @@ and compared with the production published by the grid operator.
 | Session | Date | Content |
 |---|---|---|
 | 1 | Monday 19/10, 8h00 - 9h30 | Lecture: the modelling chain, weather data, plane-of-array irradiance. Notebook 1 |
-| 2 | Tuesday 20/10, 13h15 - 14h45 | Cell temperature and DC power. One hour of one day, by hand. Notebook 2 |
+| 2 | Tuesday 20/10, 13h15 - 14h45 | Cell temperature and DC power. One hour of one day. Notebook 2 |
 | 3 | 21/10 (TP 1), 22/10 (TP 2) | Losses, inverter, performance metrics. Notebook 3 |
 | 4 | 09/11 (TP 1), 10/11 (TP 2) | The regional fleet. Project launch. Notebook 4 |
 | 5 | 24/11 (TP 2), 27/11 (TP 1) | Project work, oral presentations |
