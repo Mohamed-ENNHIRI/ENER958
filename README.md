@@ -21,12 +21,24 @@ Material appears here as the course progresses.
 
 ## Notebooks
 
-| Notebook | Open in Colab |
-|---|---|
-| 1. Python introduction and POA calculation | [python_intro_poa.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro_poa.ipynb) |
+| Session | Notebook | Exercises | Correction |
+|---|---|---|---|
+| 1 | Python introduction and POA calculation | [python_intro_poa.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro_poa.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/python_intro_poa.ipynb) |
+| 2 | Python introduction 2, cell temperature and DC power | [python_intro2_temperature_dc.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro2_temperature_dc.ipynb) | after the session |
+
+Corrections are published after each session, in `notebooks/corrections/`.
 
 Before running anything: **File, Save a copy in Drive**. Without a copy, your
 work is lost when the tab closes.
+
+## Python resources
+
+- W3Schools Python tutorial, short lessons with exercises in the browser:
+  https://www.w3schools.com/python/default.asp
+- Python documentation: https://docs.python.org/3/
+- NumPy documentation: https://numpy.org/doc/
+- pandas, "10 minutes to pandas": https://pandas.pydata.org/docs/user_guide/10min.html
+- pvlib, the PV modelling library of the course: https://pvlib-python.readthedocs.io/en/stable/
 
 ## Data
 
