@@ -19,12 +19,19 @@ and compared with the production published by the grid operator.
 
 Material appears here as the course progresses.
 
+## Slides
+
+| Session | Slides |
+|---|---|
+| 1 | [session1_slides.pdf](01_session1/session1_slides.pdf) |
+| 2 | [session2_slides.pdf](02_session2/session2_slides.pdf) |
+
 ## Notebooks
 
 | Session | Notebook | Exercises | Correction |
 |---|---|---|---|
 | 1 | Python introduction and POA calculation | [python_intro_poa.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro_poa.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/python_intro_poa.ipynb) |
-| 2 | Python introduction 2, cell temperature and DC power | [python_intro2_temperature_dc.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro2_temperature_dc.ipynb) | after the session |
+| 2 | Python introduction 2, cell temperature and DC power | [python_intro2_temperature_dc.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro2_temperature_dc.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/python_intro2_temperature_dc.ipynb) |
 
 Corrections are published after each session, in `notebooks/corrections/`.
 
