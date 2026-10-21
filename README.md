@@ -32,6 +32,7 @@ Material appears here as the course progresses.
 |---|---|---|---|
 | 1 | Python introduction and POA calculation | [python_intro_poa.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro_poa.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/python_intro_poa.ipynb) |
 | 2 | Python introduction 2, cell temperature and DC power | [python_intro2_temperature_dc.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro2_temperature_dc.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/python_intro2_temperature_dc.ipynb) |
+| 3 | AC power estimation: POA, module temperature, DC and AC power, PR and EPI against actuals | [ac_power_estimation.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/ac_power_estimation.ipynb) | after the session |
 
 Corrections are published after each session, in `notebooks/corrections/`.
 
@@ -50,8 +51,9 @@ work is lost when the tab closes.
 ## Data
 
 `data/` holds the hourly weather of the course site, Savoie, 45.64° N, 5.92° E,
-year 2023, from PVGIS SARAH3, and the solar position for the same hours. Time
-stamps are in UTC.
+year 2023, from PVGIS SARAH3, the solar position for the same hours, and the
+operating data of a 3 kWp system on the site (POA irradiance, module
+temperature, DC and AC power) used in notebook 3. Time stamps are in UTC.
 
 ## Acknowledgement
 
