@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Dinard,35,bretagne,48.62537327272727,-2.058746909090909,20.0,195.0,250.0,208.33,0.2

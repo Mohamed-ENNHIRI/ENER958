@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Tallone,2B,corse,42.192094022988506,9.461838850574711,20.0,185.0,250.0,192.31,0.2

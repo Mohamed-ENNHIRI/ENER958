@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Commenailles,39,bourgogne_franche_comte,46.80604523255813,5.435731744186046,30.0,180.0,36.0,32.73,0.2

@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Montagnat,01,auvergne_rhone_alpes,46.169748194444445,5.277880972222222,30.0,130.0,9.0,6.92,0.2

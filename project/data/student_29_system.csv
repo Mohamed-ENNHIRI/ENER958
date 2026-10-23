@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Vicq-Exemplet,36,centre_val_de_loire,46.62255690476191,2.145797976190476,20.0,200.0,250.0,250.0,0.2

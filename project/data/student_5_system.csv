@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Forest-Saint-Julien,05,provence_alpes_cote_d_azur,44.63209347826087,6.140695217391305,20.0,135.0,9.0,6.92,0.2

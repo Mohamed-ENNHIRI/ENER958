@@ -1,0 +1,14 @@
+pair,region,student_a,student_b,student_c
+1,corse,1,26,
+2,provence_alpes_cote_d_azur,4,5,
+3,auvergne_rhone_alpes,3,6,12
+4,grand_est,13,15,
+5,pays_de_la_loire,7,16,
+6,centre_val_de_loire,27,29,
+7,bourgogne_franche_comte,21,23,
+8,hauts_de_france,18,24,
+9,bretagne,10,22,
+10,normandie,8,28,
+11,ile_de_france,9,19,25
+12,nouvelle_aquitaine,2,14,20
+9b,bretagne,11,17,

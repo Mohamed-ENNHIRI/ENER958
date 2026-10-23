@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Canteleu,76,normandie,49.434744375,1.0215022916666667,15.0,165.0,9.0,9.0,0.2

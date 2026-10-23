@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Boussac-Bourg,23,nouvelle_aquitaine,46.36365870229008,2.2146070229007635,20.0,200.0,3.0,3.0,0.2

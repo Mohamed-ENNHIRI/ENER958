@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Dollon,72,pays_de_la_loire,48.03743602272727,0.5892294318181818,20.0,170.0,6.0,5.0,0.2

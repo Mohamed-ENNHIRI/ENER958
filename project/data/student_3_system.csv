@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Loudes,43,auvergne_rhone_alpes,45.10006295918368,3.744309489795918,20.0,170.0,36.0,27.69,0.2

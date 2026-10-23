@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Vertou,44,pays_de_la_loire,47.15102367816091,-1.4715334482758615,30.0,180.0,6.0,5.0,0.2

@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Treffendel,35,bretagne,48.03277160493828,-2.0072988888888887,20.0,125.0,100.0,83.33,0.2

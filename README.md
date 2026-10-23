@@ -25,6 +25,7 @@ Material appears here as the course progresses.
 |---|---|
 | 1 | [session1_slides.pdf](01_session1/session1_slides.pdf) |
 | 2 | [session2_slides.pdf](02_session2/session2_slides.pdf) |
+| 3 | [session3_slides.pdf](03_session3/session3_slides.pdf) |
 
 ## Notebooks
 
@@ -33,6 +34,7 @@ Material appears here as the course progresses.
 | 1 | Python introduction and POA calculation | [python_intro_poa.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro_poa.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/python_intro_poa.ipynb) |
 | 2 | Python introduction 2, cell temperature and DC power | [python_intro2_temperature_dc.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro2_temperature_dc.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/python_intro2_temperature_dc.ipynb) |
 | 3 | AC power estimation: POA, module temperature, DC and AC power, PR and EPI against actuals | [ac_power_estimation.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/ac_power_estimation.ipynb) | after the session |
+| Project | Your system (part A) and your region (part B) | [project.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/project.ipynb) | none, graded work |
 
 Corrections are published after each session, in `notebooks/corrections/`.
 
@@ -47,6 +49,21 @@ work is lost when the tab closes.
 - NumPy documentation: https://numpy.org/doc/
 - pandas, "10 minutes to pandas": https://pandas.pydata.org/docs/user_guide/10min.html
 - pvlib, the PV modelling library of the course: https://pvlib-python.readthedocs.io/en/stable/
+
+## Project
+
+- [Project instructions](project/project_instructions.pdf): tasks, deliverables, deadline, grading.
+- [Project groups](project/project_groups.pdf): your student number n, your pair number k and your region.
+- [Project notebook](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/project.ipynb): write your pair number k in the first cell. The notebook loads your members' systems and your region.
+
+Deadline for the notebook and the csv files: Tuesday 01/12/2026 at 23h59.
+Oral presentation of the pair work: Wednesday 02/12/2026, afternoon, both TP groups together.
+
+Project data:
+
+- `project/data/`: one system per student, `student_n_inputs.csv`, `student_n_actuals.csv`, `student_n_system.csv`.
+- `project/regions/<region>/`: the register, the department weather nodes and the reference production of each region.
+- `project/pairs.csv`: the members and the region of each pair.
 
 ## Data
 

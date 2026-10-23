@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Milizac-Guipronvel,29,bretagne,48.468611,-4.566487571428572,35.0,190.0,6.0,4.62,0.2

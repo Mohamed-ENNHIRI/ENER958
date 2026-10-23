@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Sevran,93,ile_de_france,48.936701590909095,2.531578181818182,20.0,215.0,3.0,2.73,0.2

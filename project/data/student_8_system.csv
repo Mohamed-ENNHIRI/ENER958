@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+La Forêt-du-Parc,27,normandie,48.92913405405405,1.2399702702702704,20.0,185.0,9.0,9.0,0.2

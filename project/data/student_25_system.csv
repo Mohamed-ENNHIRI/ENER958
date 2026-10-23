@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Sarcelles,95,ile_de_france,48.995043255813954,2.379058604651163,15.0,225.0,36.0,30.0,0.2

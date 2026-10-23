@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Bollezeele,59,hauts_de_france,50.86498537313433,2.3397108955223884,20.0,210.0,100.0,100.0,0.2

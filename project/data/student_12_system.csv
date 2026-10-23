@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Valserhône,01,auvergne_rhone_alpes,46.10636818181818,5.827437171717172,15.0,175.0,6.0,5.0,0.2

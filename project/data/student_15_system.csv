@@ -1,0 +1,2 @@
+site,department,region,latitude,longitude,tilt_deg,azimuth_deg,p_dc0_kwp,p_ac_max_kw,albedo
+Livry-Louvercy,51,grand_est,49.11184157142858,4.327293999999999,20.0,130.0,6.0,6.0,0.2
