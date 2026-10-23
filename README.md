@@ -33,7 +33,7 @@ Material appears here as the course progresses.
 |---|---|---|---|
 | 1 | Python introduction and POA calculation | [python_intro_poa.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro_poa.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/python_intro_poa.ipynb) |
 | 2 | Python introduction 2, cell temperature and DC power | [python_intro2_temperature_dc.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/python_intro2_temperature_dc.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/python_intro2_temperature_dc.ipynb) |
-| 3 | AC power estimation: POA, module temperature, DC and AC power, PR and EPI against actuals | [ac_power_estimation.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/ac_power_estimation.ipynb) | after the session |
+| 3 | AC power estimation: POA, module temperature, DC and AC power, PR and EPI against actuals | [ac_power_estimation.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/ac_power_estimation.ipynb) | [correction](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/corrections/ac_power_estimation.ipynb) |
 | Project | Your system (part A) and your region (part B) | [project.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/ENER958/blob/main/notebooks/project.ipynb) | none, graded work |
 
 Corrections are published after each session, in `notebooks/corrections/`.
