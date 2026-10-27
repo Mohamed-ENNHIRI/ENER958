@@ -9,6 +9,7 @@ pair,region,student_a,student_b,student_c
 8,hauts_de_france,18,24,
 9,bretagne,10,22,
 10,normandie,8,28,
-11,ile_de_france,9,19,25
+11,ile_de_france,19,25,
 12,nouvelle_aquitaine,2,14,20
 9b,bretagne,11,17,
+11b,ile_de_france,9,,
