@@ -12,10 +12,13 @@ and compared with the production published by the grid operator.
 | Session | Date | Content |
 |---|---|---|
 | 1 | Monday 19/10, 8h00 - 9h30 | Lecture: the modelling chain, weather data, plane-of-array irradiance. Notebook 1 |
-| 2 | Tuesday 20/10, 13h15 - 14h45 | Cell temperature and DC power. One hour of one day. Notebook 2 |
-| 3 | 21/10 (TP 1), 22/10 (TP 2) | Losses, inverter, performance metrics. Notebook 3 |
-| 4 | 09/11 (TP 1), 10/11 (TP 2) | The regional fleet. Project launch. Notebook 4 |
-| 5 | 24/11 (TP 2), 27/11 (TP 1) | Project work, oral presentations |
+| 2 | Tuesday 20/10, 13h15 - 14h45 | Cell temperature and DC power. One hour through the chain. Notebook 2 |
+| 3 | Wednesday 21/10, 8h15 - 11h15 (TP 1)<br>Thursday 22/10, 13h00 - 16h00 (TP 2) | Losses, inverter, performance metrics. Notebook 3. Project launch, part A |
+| 4 | Monday 09/11, 8h15 - 11h15 (TP 1)<br>Tuesday 10/11, 8h15 - 11h15 (TP 2) | The regional fleet. Notebook 4. Project, part B |
+| 5 | Tuesday 24/11, 9h45 - 12h45 (TP 2)<br>Friday 27/11, 13h15 - 16h15 (TP 1) | Project work |
+| Oral | Wednesday 02/12, afternoon, both TP groups together | Oral presentations of part B, 10 minutes per group, then questions |
+
+Deadline for the project notebook and the csv files: Tuesday 01/12/2026 at 23h59.
 
 Material appears here as the course progresses.
 
